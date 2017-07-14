@@ -1,4 +1,4 @@
-package com.idark.Controller;
+package com.idark.controller;
 
 import com.idark.model.Person;
 import org.springframework.stereotype.Controller;
